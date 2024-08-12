@@ -9,7 +9,6 @@
 You can contact me through the following social networks and email:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/reginaldo-buange)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://www.facebook.com/seu-perfil)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:reginaldobuange@gmail.com)
 
 
